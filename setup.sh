@@ -10,3 +10,5 @@ cd ../
 sudo apt install curl espeak
 curl -sS https://starship.rs/install.sh | sh
 cp starship.toml ~/.config/
+sudo apt install fish
+cp fish ~/.config/
